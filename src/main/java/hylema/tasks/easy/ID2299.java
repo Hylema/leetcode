@@ -1,4 +1,4 @@
-package hylema.tasks;
+package hylema.tasks.easy;
 
 /**
  * url https://leetcode.com/problems/strong-password-checker-ii/description/
